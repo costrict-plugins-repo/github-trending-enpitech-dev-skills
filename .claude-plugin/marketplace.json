@@ -1,0 +1,14 @@
+{
+  "name": "enpitech",
+  "owner": { "name": "Enpitech" },
+  "plugins": [
+    {
+      "name": "enpitech",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/enpitech/ai-tools.git",
+        "sha": "99c83202ae863c17ed9a61319ec8c27955abcba0"
+      }
+    }
+  ]
+}

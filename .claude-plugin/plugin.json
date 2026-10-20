@@ -1,0 +1,10 @@
+{
+  "name": "enpitech",
+  "description": "Multi-language code review and developer tools for Claude Code — supports React, Node.js, Python, any language, dependency auditing, fullstack cross-layer reviews, and plain-language PR briefs.",
+  "version": "2.1.0",
+  "author": {
+    "name": "Enpitech"
+  },
+  "repository": "https://github.com/enpitech/ai-tools",
+  "license": "MIT"
+}
